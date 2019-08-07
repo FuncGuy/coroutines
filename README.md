@@ -4,7 +4,7 @@
 [![Download](https://api.bintray.com/packages/esoco/sdack/coroutines/images/download.svg)](https://bintray.com/esoco/sdack/coroutines/_latestVersion)&nbsp;&nbsp;&nbsp;
 [![Gitter chat](https://badges.gitter.im/esoco-coroutines/gitter.png)](https://gitter.im/esoco-coroutines/community)
 
-This project contains a pure Java implementation of coroutines. I has a single dependency to the [ObjectRelations project](https://github.com/esoco/objectrelations). 
+This project contains a pure Java implementation of coroutines. I have a single dependency to the [ObjectRelations project](https://github.com/esoco/objectrelations). 
 
 It can be build locally after cloning by starting a gradle build with `gradlew build`. 
 
